@@ -1,18 +1,28 @@
-## Getting Started
+<h1 align="center">✖ Tabuada de multiplicação ✖</h1>
+<p align="center">
+  <img src="toReadme/tbM.png">
+</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## :books: Informações
+"Escreva um programa que informa a tabuada de multiplicação de um número informado pelo
+usuário (entre 1-10)."<br/><br/>
+Exemplo:
 
-## Folder Structure
+```Entre com um número de 1 a 10:
+Entre com um número de 1 a 10:
+1
+A tabuada de 1 é:
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3
+…
+```
 
-The workspace contains two folders by default, where:
+## :bookmark_tabs: Conclusão
+Um simples projeto utilizando estrutura de repetição "for".
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## :pushpin: Tecnologias
+<ul>
+  <li><a href="https://docs.oracle.com/javase/tutorial/">Java</a></li>
+  <li><a href="https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448">Classe Scanner</a></li>
+</ul>
