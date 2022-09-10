@@ -1,18 +1,24 @@
-## Getting Started
+<h1 align="center">Convertor de temperaturas 🌡</h1>
+<p align="center">
+  <img src="toReadme/cCF.png">
+</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## :books: Informações
+"Escreva um programa que converte temperaturas de Celsius para Fahrenheit. Fórmula ( 0 °C ×
+9 / 5 ) + 32 = 32 °F."<br/><br/>
+Exemplo:
 
-## Folder Structure
+```
+Entre com uma temperatura em Celsius para saber seu equivalente em Fahrenheit:
+22
+O equivalente a 22 C é 71,6 F.
+```
 
-The workspace contains two folders by default, where:
+## :bookmark_tabs: Conclusão
+Um simples projeto que recebe um valor e no resultado é usado uma fórmula para calcular a conversão em Fahrenheit. Declarei " float grau; ", porém no resultado coloquei como "(int) grau" para não aparecer o número decimal (.0).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## :pushpin: Tecnologias
+<ul>
+  <li><a href="https://docs.oracle.com/javase/tutorial/">Java</a></li>
+  <li><a href="https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448">Classe Scanner</a></li>
+</ul>
