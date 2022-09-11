@@ -1,18 +1,30 @@
-## Getting Started
+<h1 align="center">Lista de frutas 🍇</h1>
+<p align="center">
+  <img src="toReadme/lsF.png">
+</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## :books: Informações
+"Escreva um programa que lê o nome de 5 frutas e armazena num carrinho de compras. Ao final
+da entrada dos 5 itens, exiba a lista completa."<br/><br/>
+Exemplo:
 
-## Folder Structure
+```
+Insira a sua lista de compras:
+banana
+maçã
+abacaxi
+melão
+mamão
 
-The workspace contains two folders by default, where:
+As frutas no seu carrinho são:
+banana, maçã, abacaxi, melão, mamão
+```
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## :bookmark_tabs: Conclusão
+Um projeto que adiciona informações no Array e imprime o total após completar os 5 elementos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## :pushpin: Tecnologias
+<ul>
+  <li><a href="https://docs.oracle.com/javase/tutorial/">Java</a></li>
+  <li><a href="https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448">Classe Scanner</a></li>
+</ul>
