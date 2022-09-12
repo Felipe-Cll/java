@@ -1,30 +1,18 @@
-<h1 align="center">Supermercado de frutas 🍉</h1>
-<p align="center">
-  <img src="toReadme/spmk.png">
-</p>
+## Getting Started
 
-## :books: Informações
-"Um supermercado anuncia diariamente uma lista com 5 frutas em promoção. Escreva um
-programa que recebe o nome de uma fruta que você deseja comprar e informa se a fruta
-pertence à lista de promoções."<br/><br/>
-Exemplo:
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-```
-A lista de frutas em promoção é: [banana, maçã, abacaxi, melão, mamão].
+## Folder Structure
 
-Qual fruta você deseja comprar hoje?
+The workspace contains two folders by default, where:
 
-banana
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Ótima escolha! Essa fruta está em promoção hoje.
-```
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-## :bookmark_tabs: Conclusão
-Um projeto que utiliza informações definidas no Array para verificar se o produto escolhido está em promoção.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## :pushpin: Tecnologias
-<ul>
-  <li><a href="https://docs.oracle.com/javase/tutorial/">Java</a></li>
-  <li><a href="https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448">Classe Scanner</a></li>
-  <li><a href="https://www.devmedia.com.br/trabalhando-com-arrays-em-java/25530">Classe Array</a></li>
-</ul>
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
