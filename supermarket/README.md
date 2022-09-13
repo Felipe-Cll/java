@@ -1,18 +1,30 @@
-## Getting Started
+<h1 align="center">Supermercado de frutas 🍉</h1>
+<p align="center">
+  <img src="toReadme/spmk.png">
+</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## :books: Informações
+"Um supermercado anuncia diariamente uma lista com 5 frutas em promoção. Escreva um
+programa que recebe o nome de uma fruta que você deseja comprar e informa se a fruta
+pertence à lista de promoções."<br/><br/>
+Exemplo:
 
-## Folder Structure
+```
+A lista de frutas em promoção é: [banana, maçã, abacaxi, melão, mamão].
 
-The workspace contains two folders by default, where:
+Qual fruta você deseja comprar hoje?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+banana
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Ótima escolha! Essa fruta está em promoção hoje.
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## :bookmark_tabs: Conclusão
+Um projeto que utiliza informações definidas no Array para verificar se o produto escolhido está em promoção.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## :pushpin: Tecnologias
+<ul>
+  <li><a href="https://docs.oracle.com/javase/tutorial/">Java</a></li>
+  <li><a href="https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448">Classe Scanner</a></li>
+  <li><a href="https://www.devmedia.com.br/trabalhando-com-arrays-em-java/25530">Classe Array</a></li>
+</ul>
